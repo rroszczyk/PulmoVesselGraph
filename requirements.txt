@@ -1,0 +1,16 @@
+# Used with Python 3.11
+numpy
+scipy
+scikit-image
+pydicom
+nibabel
+kimimaro
+crackle-codec
+networkx
+skan
+pandas
+matplotlib
+napari[pyqt5]
+PyOpenGL
+PyOpenGL_accelerate
+pyvista
